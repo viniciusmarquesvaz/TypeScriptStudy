@@ -1,0 +1,17 @@
+{
+  "name": "typescritpstudy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+
+  },
+  "scripts": {
+    "tsc-watch": "tsc",
+    "test" : "echo \"Error: no test specidied\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vinícius"
+ 
+}
